@@ -26,6 +26,16 @@ section {
 h1 {
     font-size: 40px;
 }
-img{
+
+img {
     height: 200;
 }
+
+ .categoria-videos {
+    display: flex;
+    overflow-x: auto;
+    gap: 10px;
+}
+
+
+
